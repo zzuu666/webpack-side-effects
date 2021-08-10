@@ -1,0 +1,16 @@
+{
+  "name": "webpack-side-effects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zzuu666 <zzuu666@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.2",
+    "webpack": "^5.49.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "rehype": "^12.0.0",
+    "rehype-highlight": "^5.0.0"
+  }
+}
